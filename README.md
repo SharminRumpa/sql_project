@@ -20,8 +20,8 @@
        * __Execute File:__
                 
 	        * Execute all Create File
-              * Alter Table & Delete column
-	      * Update Row & Delete Row
+                * Alter Table & Delete column
+	        * Update Row & Delete Row
 		* Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
 		* Join Query, Implicit Join Query & Outer join Query
 		* Sub-Query
