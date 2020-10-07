@@ -1,21 +1,21 @@
 ## Microsoft SQL Server
 
 ### Project Information: 
-   * __Project Owner:__ Sharmin Akter 
+   * __Project Owner:__ _**Sharmin Akter**_
    * __Project Number:__ 01
    * __Project Name:__ Microsoft SQL Server(SQL Project)
    * __Project Description:__
 
-       * __Create File:__ 
-			 1. Relational Database
-			 2. Raw Insert
-			 3. CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
-			 4. Create Procedure that show the all information about Index
-			 5. CRAETE Read-Only View, Updateable View & View with Encryption, Schemabinding
-			 6. Create Stored Procedures - Use Input & OutPut Paramiters
-			 7. Create Scalar-valued Function
-			 8. Create Simple Table-valued Function
-			 9. Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
+       * __Create File:__
+       		1. Relational Database
+		2. Raw Insert
+		3. CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
+		4. Create Procedure that show the all information about Index
+		5. CRAETE Read-Only View, Updateable View & View with Encryption, Schemabinding
+		6. Create Stored Procedures - Use Input & OutPut Paramiters
+		7. Create Scalar-valued Function
+		8. Create Simple Table-valued Function
+		9. Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
                          
         * __Execute File:__
 			1. Execute all Create File
