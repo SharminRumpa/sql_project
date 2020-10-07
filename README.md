@@ -27,9 +27,9 @@
 						9. Summary
 						
 ### Project Strength: 
-					* Create all file by One click
-					* Execute Command
+					*Create all file by One click
+					*Execute Command
 
 
 ### Tools and Technologies:  
-					* SQL Server Management Studio 2018 (Build number: 15.0.18206.0)
+					*SQL Server Management Studio 2018 (Build number: 15.0.18206.0)
