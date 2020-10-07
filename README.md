@@ -1,11 +1,11 @@
 # Microsoft SQL Server
 
-Project Information: 
+# Project Information: 
 	Project Owner: Sharmin Akter
 	Project Number: 01
 	Project Name: Microsoft SQL Server(SQL Project)
 	Project Description: 
-		1. Create File: 
+		# Create File: 
 						Relational Database
 						Raw Insert
 						CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
@@ -15,7 +15,7 @@ Project Information:
 						Create Scalar-valued Function
 						Create Simple Table-valued Function
 						Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
-		2. Execute File:
+		# Execute File:
 						Execute all Create File
 						Alter Table & Delete column
 						Update Row & Delete Row
@@ -26,9 +26,10 @@ Project Information:
 						CTE
 						Summary
 						
-Project Strength: 
+# Project Strength: 
 					Create all file by One click
 					Execute Command
 
 
-Tools and Technologies:  SQL Server Management Studio 2018 (Build number: 15.0.18206.0)
+# Tools and Technologies:  
+					SQL Server Management Studio 2018 (Build number: 15.0.18206.0)
