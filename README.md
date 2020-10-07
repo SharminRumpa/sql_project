@@ -8,22 +8,23 @@
 
       * __Create File:__      		
 		* Relational Database
-		2. Raw Insert
-		3. CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
-		4. Create Procedure that show the all information about Index
-		5. CRAETE Read-Only View, Updateable View & View with Encryption, Schemabinding
-		6. Create Stored Procedures - Use Input & OutPut Paramiters
-		7. Create Scalar-valued Function
-		8. Create Simple Table-valued Function
-		9. Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
+		* Raw Insert
+		* CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
+		* Create Procedure that show the all information about Index
+		* CRAETE Read-Only View, Updateable View & View with Encryption, Schemabinding
+		* Create Stored Procedures - Use Input & OutPut Paramiters
+		* Create Scalar-valued Function
+		* Create Simple Table-valued Function
+		* Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
                          
        * __Execute File:__
-                * Execute all Create File
-		2. Alter Table & Delete column
-		3. Update Row & Delete Row
-		4. Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
-		5. Join Query, Implicit Join Query & Outer join Query
-		6. Sub-Query
+                
+	        * Execute all Create File
+		* Alter Table & Delete column
+		* Update Row & Delete Row
+		* Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
+		* Join Query, Implicit Join Query & Outer join Query
+		* Sub-Query
 		7. Union
 		8. CTE
 		9. Summary
