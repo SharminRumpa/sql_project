@@ -23,7 +23,7 @@ ALTER TABLE IssueingBookDetails  ADD  TotalDuration	 INT;
 
 GO
 
---- Delect column from table---------------------------------------------------------------------------------------
+--- Delete column from table---------------------------------------------------------------------------------------
 
 ALTER TABLE IssueingBookDetails DROP COLUMN TotalDuration;
 
@@ -34,7 +34,7 @@ GO
 UPDATE Books SET ISBN = '4662-2314-25' WHERE BookID = 34;
 
 GO
---- DELECT ROW------------------------------------------------------------------------------------------
+--- DELETE ROW------------------------------------------------------------------------------------------
 
 DELETE FROM Students WHERE StudentID = 27;
 
@@ -66,7 +66,7 @@ SELECT * FROM VW_BookTitleWithAuthorName;
 ----21.A View with Encryption Find Out students--------------------------------------------------------
 SELECT * FROM VW_Student;
 
----A select statment---------------------------------------------------------------------------------
+---A Select statment---------------------------------------------------------------------------------
 
 SELECT BookID, BookTitle,ISBN, NoOfPage, RackNo FROM Books ORDER BY BookTitle; 
 
