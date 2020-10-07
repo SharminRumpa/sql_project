@@ -5,7 +5,7 @@
 	Project Number: 01
 	Project Name: Microsoft SQL Server(SQL Project)
 	Project Description: 
-		# Create File: 
+		- Create File: 
 						Relational Database
 						Raw Insert
 						CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
@@ -15,7 +15,7 @@
 						Create Scalar-valued Function
 						Create Simple Table-valued Function
 						Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
-		# Execute File:
+		- Execute File:
 						Execute all Create File
 						Alter Table & Delete column
 						Update Row & Delete Row
