@@ -1,5 +1,4 @@
-# sql_project
-Microsoft SQL Server
+# Microsoft SQL Server
 
 Project Information: 
 	Project Owner: Sharmin Akter
