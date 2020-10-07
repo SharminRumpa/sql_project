@@ -1,7 +1,7 @@
 ## Microsoft SQL Server
 
 ### Project Information: 
-	* **Project Owner:** Sharmin Akter
+	* __Project Owner:__ Sharmin Akter
 	* **Project Number:** 01
 	* **Project Name:** Microsoft SQL Server(SQL Project)
 	* **Project Description:** 
