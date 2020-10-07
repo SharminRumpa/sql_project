@@ -6,8 +6,7 @@
    * __Project Name:__ Microsoft SQL Server(SQL Project)
    * __Project Description:__
 
-      * __Create File:__
-      		
+      * __Create File:__      		
 		* Relational Database
 		2. Raw Insert
 		3. CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
@@ -18,9 +17,8 @@
 		8. Create Simple Table-valued Function
 		9. Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
                          
-       * __Execute File:__
-       		
-		1. Execute all Create File
+       * __Execute File:__       		
+		* Execute all Create File
 		2. Alter Table & Delete column
 		3. Update Row & Delete Row
 		4. Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
