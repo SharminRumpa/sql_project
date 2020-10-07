@@ -25,9 +25,9 @@
 		* Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
 		* Join Query, Implicit Join Query & Outer join Query
 		* Sub-Query
-		7. Union
-		8. CTE
-		9. Summary
+		* Union
+		* CTE
+		* Summary
 						
 ### Project Strength: 
    * Create all file by One click
