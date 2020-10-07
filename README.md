@@ -20,6 +20,13 @@
        * __Execute File:__
                 
 	        * Execute all Create File
+		* Raw Insert
+		* CREATE INDEX, CLUSTERED INDEX, NONCLUSTERED INDEX
+		* Create Procedure that show the all information about Index
+		* CRAETE Read-Only View, Updateable View & View with Encryption, Schemabinding
+		* Create Stored Procedures - Use Input & OutPut Paramiters
+		* Create Scalar-valued Function
+		* Create Simple Table-valued Function
 		* Alter Table & Delete column
 		* Update Row & Delete Row
 		* Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
