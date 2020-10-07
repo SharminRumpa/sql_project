@@ -19,6 +19,7 @@
 		9. Create Trigger Statemant - Instead Trigger, After Trigger Insert, Update & After Trigger Deleted
                          
        * __Execute File:__
+       		
 		1. Execute all Create File
 		2. Alter Table & Delete column
 		3. Update Row & Delete Row
